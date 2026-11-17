@@ -1,0 +1,6 @@
+{
+  "name": "العلم",
+  "description": "مكتبة مرئية للدروس والمقاطع الدينية والرقائق والتزكية لعدد من المشايخ والدعاة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
